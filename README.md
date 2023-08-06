@@ -15,6 +15,7 @@ Para ejecutar este programa necesitarás las siguientes librerías:
 - matplotlib
 - PIL
 - skimage
+- time
 
 ## Uso
 
